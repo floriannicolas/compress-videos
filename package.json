@@ -1,0 +1,16 @@
+{
+  "name": "compress-videos",
+  "version": "1.0.0",
+  "description": "Batch compress videos using ffmpeg with h264/h265 codecs",
+  "main": "compress-videos.js",
+  "bin": {
+    "compress-videos": "./compress-videos.js"
+  },
+  "scripts": {
+    "start": "node compress-videos.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs"
+}
